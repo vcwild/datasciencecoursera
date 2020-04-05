@@ -26,3 +26,5 @@ readData <- function(param) {
 }
 
 readData("copyOfhw1_data.csv")
+
+args(read.csv)
